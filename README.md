@@ -22,4 +22,5 @@ $ cd busca-cep/app
 ```sh
 /busca-cep/app$ iex -S mix
 
-iex(1) > Cep.buscar("01310200")``
+iex(1) > Cep.buscar("01310200")
+```
